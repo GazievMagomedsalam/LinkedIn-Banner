@@ -29,7 +29,7 @@ Example:
   Passionate about creating scalable web applications!
   
   Email: your.email@example.com
-
+     й
 ```
 
 ### 2. Add Your GitHub Contributions Graph
